@@ -1,0 +1,10 @@
+this is a c program
+
+#include<stdio.h>
+int main() {
+int a,b,c;
+printf("enter the values of a,b,c: ");
+scanf("%d,%d,%d",&a,&b,&c);
+printf("the sum is:"c);
+return 0;
+}
